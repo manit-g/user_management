@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+.DS_Store
+build/
+dist/
+*.zip
+DEPLOYMENT.md
+QUICK_DEPLOY.md
+MONGODB_SETUP.md
+
