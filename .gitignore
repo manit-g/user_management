@@ -5,10 +5,5 @@ node_modules/
 build/
 dist/
 *.zip
-DEPLOYMENT.md
-QUICK_DEPLOY.md
-MONGODB_SETUP.md
 PROJECT_EXPLANATION.md
-DEPLOY_STEPS.txt
-CI_CD_SETUP.md
 
