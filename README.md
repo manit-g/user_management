@@ -1,6 +1,8 @@
-# User Management Dashboard
+# User Management Dashboard by MG
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for managing user information with CRUD operations, search, pagination, and CSV export functionality.
+
+**🌐 Live Demo:** [https://user-management-red-beta.vercel.app/](https://user-management-red-beta.vercel.app/)
 
 ## Features
 
