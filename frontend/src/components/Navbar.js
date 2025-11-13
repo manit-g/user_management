@@ -11,7 +11,23 @@ const Navbar = () => {
       <Toolbar>
         <PeopleIcon sx={{ mr: 2 }} />
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          User Management
+          User Management by{' '}
+          <a
+            href="https://portfoliobymg.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              color: '#fff',
+              textDecoration: 'none',
+              fontWeight: 'bold',
+              borderBottom: '2px solid #fff',
+              transition: 'opacity 0.3s',
+            }}
+            onMouseEnter={(e) => (e.target.style.opacity = '0.8')}
+            onMouseLeave={(e) => (e.target.style.opacity = '1')}
+          >
+            MG
+          </a>
         </Typography>
         <Box>
           <Button
